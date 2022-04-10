@@ -148,5 +148,6 @@ legend.onAdd = function() {
       color:"#ea2c2c" ,
       weight:4
   }).addTo(allTectonicPlates);
+  
 });
 });
